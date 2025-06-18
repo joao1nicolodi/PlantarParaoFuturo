@@ -65,7 +65,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(2000, 1000);
+  createCanvas(2700, 1200);
   corTronco = color(139, 69, 19); // Marrom
   corFolhaInicial = color(0, 150, 0); // Verde claro
   corFolhaAdulta = color(0, 100, 0); // Verde escuro
