@@ -1,4 +1,3 @@
-# PlantarParaoFuturo
 Plantar para o Futuro: Uma Jornada de Conscientização Ambiental
 "Plantar para o Futuro" é um envolvente jogo que te convida a participar ativamente da construção de um futuro mais verde. Com uma proposta simples e direta, o game une a diversão da interação com uma importante mensagem sobre a conscientização ambiental.
 
